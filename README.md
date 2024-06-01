@@ -55,7 +55,7 @@ git push origin main
 
 CC6.2: Choose a Data Source
 
->I chose the palmerpenguins dataset. The UCI Machine Learning Repository said it has no missing data values.
+>I chose the palmerpenguins dataset since it is a built in library for python. The UCI Machine Learning Repository said it has no missing data values.
 >
 >![dataset image](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 >“Artwork by @allison_horst”
