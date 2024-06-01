@@ -61,4 +61,4 @@ CC6.2: Choose a Data Source
 >“Artwork by @allison_horst”
 >
 >Description: The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an .alternative to iris. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Data comes from 3 penguin species in the islands of Palmer Archipelago, Antarctica.
->[dataset link](https://allisonhorst.github.io/palmerpenguins/)
+>[dataset csv link](https://github.com/mcnakhaee/palmerpenguins/blob/master/palmerpenguins/data/penguins.csv)
