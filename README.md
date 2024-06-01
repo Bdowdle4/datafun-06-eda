@@ -1,6 +1,8 @@
 # datafun-06-eda
 Project 6 is an opportunity to create your own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 
+CC6.1: Start a New Project
+
 ## How to Install and Run the Project
 
 ### Clone Your Repo
@@ -50,3 +52,13 @@ git add .
 git commit -m "initial commit"
 git push origin main
 ```
+
+CC6.2: Choose a Data Source
+
+>I chose the palmerpenguins dataset. The UCI Machine Learning Repository said it has no missing data values.
+>
+>![dataset image](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+>“Artwork by @allison_horst”
+>
+>Description: The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an .alternative to iris. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Data comes from 3 penguin species in the islands of Palmer Archipelago, Antarctica.
+>[dataset link](https://allisonhorst.github.io/palmerpenguins/)
