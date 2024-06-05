@@ -61,4 +61,56 @@ CC6.2: Choose a Data Source
 >“Artwork by @allison_horst”
 >
 >Description: The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an .alternative to iris. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Data comes from 3 penguin species in the islands of Palmer Archipelago, Antarctica.
->[dataset csv link](https://github.com/mcnakhaee/palmerpenguins/blob/master/palmerpenguins/data/penguins.csv)
+>[dataset csv link](https://github.com/Bdowdle4/datafun-06-eda/blob/main/data.csv)
+
+P6 Exploratory Data Analysis
+
++ Start a notebook
++ Implement your custom EDA
++ Collaborate and complete your project
+
+### Start Jupyter
+
+```shell
+#Example VS Code - in your project folder
+code .
+ni "filename.ipynb" #the file extension must be exactly ".ipynb" to open in jupyter
+#Example Native Terminal - in your project folder
+cd filename ##keep doing this until you reach the correct folder
+jupyter lab #this command will also open in VS Code
+```
+
+### Steps to implement custom EDA
+
+> Data Acquisition
+>
+> Initial Data Inspection
+>
+> Initial Descriptive Statistics
+>
+> Initial Data Distribution for Numerical Columns
+>
+> Initial Data Distribution for Categorical Columns
+>
+> Initial Data Transformation and Feature Engineering
+>
+> Initial Visualizations
+>
+> Initial Storytelling and Presentation
+
+## Evaluation Criteria
+
+- Functionality: The project should be functional and meet all requirements.
+- Documentation: The project should be well-written and well-documented.
+- Presentation: The project should be presented in a clear and organized manner.
+- Professionalism: The project should be submitted on-time and reflect an original, creative effort.
+
+See rubric for additional information.
+
+## Resources
+
+- See [datafun-04-spec](https://github.com/denisecase/datafun-04-spec) for a guided EDA.
+- See [JUPYTER.md](https://github.com/denisecase/datafun-04-spec/JUPYTER.md) for Jupyter Notebook keyboard shortcuts and recommendations.
+- See [MARKDOWN.md](https://github.com/denisecase/datafun-04-spec/MARKDOWN.md) for Markdown syntax and recommendations.
+- See [Plotting graph For IRIS Dataset Using Seaborn And Matplotlib](https://www.tutorialspoint.com/plotting-graph-for-iris-dataset-using-seaborn-and-matplotlib)
+- See [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
