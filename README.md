@@ -105,7 +105,6 @@ jupyter lab #this command will also open in VS Code
 - Presentation: The project should be presented in a clear and organized manner.
 - Professionalism: The project should be submitted on-time and reflect an original, creative effort.
 
-See rubric for additional information.
 
 ## Resources
 
